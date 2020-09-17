@@ -1,4 +1,4 @@
-# [socialcheck.info](socialcheck.info)
+# [https://www.socialcheck.info](socialcheck.info)
 Social Media Background Check Application
 
 Created using React and ExpressJS
